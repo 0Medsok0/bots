@@ -1,7 +1,7 @@
 from telebot import types, TeleBot
 import sqlite3
 
-bot = TeleBot('6617225742:AAF5DtY2ohs-0n_GEQTnCit8dMSVofsHh5E')
+bot = TeleBot('--TOKEN--')
 
 
 @bot.message_handler(commands=['start'])
