@@ -1,6 +1,6 @@
 import telebot
 
-bot = telebot.TeleBot('6617225742:AAF5DtY2ohs-0n_GEQTnCit8dMSVofsHh5E')
+bot = telebot.TeleBot('You token')
 
 # Define a list of job listings
 jobs = [
